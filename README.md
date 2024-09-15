@@ -1,4 +1,4 @@
-# Android Device tree for the Redmi Note 10S 5G
+# Android Device tree for the Redmi Note 10S
 
 ```
 #
